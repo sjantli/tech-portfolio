@@ -2,16 +2,7 @@
 id: about
 title: About
 ---
-
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+I am Sridevi Jantli and I am an MTS at NetApp. I am Bold and brave and love to hike.
 
 Write it in first (I) or third (Your Name Here) person.
 
@@ -19,14 +10,14 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Software Engineer at NetApp
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+First from my family to work in the USA.
 
 ## Social Media
 
 - Twitter
-- LinkedIn
-- GitHub
+- LinkedIn https://www.linkedin.com/in/sridevijantli/
+- GitHub https://github.com/sjantli
