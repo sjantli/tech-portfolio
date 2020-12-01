@@ -2,19 +2,12 @@
 id: about
 title: About
 ---
-I am Sridevi Jantli and I am an MTS at NetApp. I am Bold and brave and love to hike.
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I am Sridevi Jantli and I am an MTS at NetApp. I am bold, brave, confident and hardworking.
+I like to hike and try new adventures.
 
 ## Current Role
 
 Software Engineer at NetApp
-
-## Recognition
-
-First from my family to work in the USA.
 
 ## Social Media
 
